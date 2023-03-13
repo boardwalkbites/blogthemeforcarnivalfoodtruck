@@ -1,6 +1,6 @@
 # Carnival Food Truck blog theme modified from [Start Bootstrap - Clean Blog](https://startbootstrap.com/theme/clean-blog/)
 
-[Clean Blog](https://startbootstrap.com/theme/clean-blog/) is a stylish, responsive blog theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features a blog homepage, about page, contact page, and an example post page along with a working PHP contact form.
+We are trying to modify this clean blog theme. We like this theme because it is simple and we are not really great in coding stuff. What we want is a theme with minimal needed images to look good and this will also help us maintain the loading speed of our blog. We also want to highlight the content because that's the reason we made this.
 
 ## Preview
 
